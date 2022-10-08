@@ -1,4 +1,4 @@
-### J0J0 Profile: 
+### J0J0 Profile: [will update soon]
 
 <!--
 **01-for-all/01-for-all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
