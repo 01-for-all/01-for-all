@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I wanted to solve business problems and help build something that will make peoples life's easier. That's the reason why i became a Software Engineer in Blockchain Tech and Data Engineering.
+#### #unplug manifesto 
+- AIM : "purpose of the creation is to serve the creator"   
+
+- Does AI replace humans? 
+  - I dont think so beacuse humans should create products for humans not AI.
+- So why AI is imp? 
+  - what it should do is to improve the productivity of work done by people.
+- The important question that we should be asking is : what's the point of automation if there is no human to maintain it? what if it malfunctions?
+- to be continued........     
