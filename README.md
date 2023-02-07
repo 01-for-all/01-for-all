@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### #unplug manifesto 
+#### #unplug 
 - AIM : "purpose of the creation is to serve the creator"   
 
 - Does AI replace humans? 
