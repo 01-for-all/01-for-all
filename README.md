@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### #unplug 
+<!-- #### #unplug 
 - AIM : "purpose of the creation is to serve the creator"   
 
 - Does AI replace humans? 
@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - So why AI is imp? 
   - what it should do is to improve the productivity of work done by people.
 - The important question that we should be asking is : what's the point of automation if there is no human to maintain it? what if it malfunctions?
-- to be continued........     
+- If we create an artifical mind, can we be considered as a god to that entity. -->
+    
