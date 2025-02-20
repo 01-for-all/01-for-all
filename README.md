@@ -1,27 +1,14 @@
-### @J0J0
+<h2 align="center">Hi there 👋, @JOJO  [under work!]</h2>
+<ul>
+  <li>I'm <a href = "https://jojo.com/">JOJO</a>, a AI Engineer having 4+ years of experience working in various domains like full stack, machine learning, backend and data engineering.</li>
+  <li>Checkout my GitHub repositories on <a href = "https://github.com/ashishps1/awesome-system-design-resources">System Design</a>, <a href = "https://github.com/ashishps1/awesome-low-level-design">Low Level Design</a> and <a href = "https://github.com/ashishps1/awesome-behavioral-interviews">Behavioral interviews</a>.</li>
+  <li>Checkout my <a href="https://www.youtube.com">YouTube Channel</a> for more in-depth content.</li>
+  <li>Follow me on <a href="www.linkedin.com/in/j0-j0">LinkedIn</a> and <a href="https://twitter.com/jojo">X</a> to stay updated.</li>
+</ul>
 
-<!--
-**01-for-all/01-for-all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;![](https://komarev.com/ghpvc/?username=ashishps1&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishps1&show_icons=true&locale=en" alt="ashishps1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishps1&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- #### #unplug 
-- AIM : "purpose of the creation is to serve the creator"   
-
-- Does AI replace humans? 
-  - I dont think so beacuse humans should create products for humans not AI.
-- So why AI is imp? 
-  - what it should do is to improve the productivity of work done by people.
-- The important question that we should be asking is : what's the point of automation if there is no human to maintain it? what if it malfunctions?
-- If we create an artifical mind, can we be considered as a god to that entity. -->
     
