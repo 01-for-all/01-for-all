@@ -51,27 +51,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=01-for-all&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=01-for-all&theme=flat&column=6&margin-w=10&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📅 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=01-for-all&theme=github-compact&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=01-for-all&color=brightgreen" alt="Profile Views" />
-</p>
-
 
     
