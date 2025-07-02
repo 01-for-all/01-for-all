@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm JOJO</h2>
+<h2 align="center"> I'm JOJO </h2>
 <h4 align="center">🚀 AI Engineer | Generative AI • MLOps • Backend • Data Engineering</h4>
 
 ---
