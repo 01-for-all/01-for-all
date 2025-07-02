@@ -1,55 +1,73 @@
-<h2 align="center"> I'm JOJO </h2>
-<h4 align="center">🚀 AI Engineer | Generative AI • MLOps • Backend • Data Engineering</h4>
+<h2 align="center">Hi there 👋, I'm JOJO</h2>
+<h4 align="center">🚀 AI Engineer • Generative AI • LLMOps • Backend Systems • Data Engineering</h4>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Smart+AI+Systems;LLM%20Specialist%20%7C%20MLOps%20Engineer;Powering+RAG,+ETL,+and+Recommenders;Lifelong+learner+and+open-source+enthusiast&center=true&width=800&height=45&font=Fira%20Code&pause=1000" />
+</p>
 
 ---
 
-### 🧑‍💼 About Me
+### 👨‍💼 About Me
 
-- 🔭 I'm an **AI Engineer** with **5+ years of experience**, focused on building impactful, scalable AI/ML systems across cloud environments.
-- 🧠 I specialize in **Generative AI**, **RAG-based Chatbots**, **LLMOps**, **ML Pipelines**, and **Real-time Analytics**.
-- ⚙️ Skilled in **Python, PySpark, SQL, Azure, Databricks, Microsoft Fabric, Power BI, MLflow** and more.
-- 📊 Passionate about solving real-world problems with intelligent systems and automation.
-- 🌱 Currently exploring **Agentic AI systems**, **LangChain**, and **AutoGen**.
+- 💼 AI Engineer with 5+ years of analytics experience (4+ in ML/GenAI).
+- ⚡ Specialized in **LLM-based solutions**, **RAG architecture**, **GenAI pipelines**, and **ML model orchestration**.
+- 🧠 Hands-on with **Databricks**, **Azure AI**, **Microsoft Fabric**, **MLflow**, **AutoGen**, and more.
+- 📈 Built real-time production systems for enterprise clients in telecom, engineering, and education sectors.
+
+---
+
+## 📚 Featured Projects
+
+| 🚀 Project | 🔍 Description |
+|-----------|----------------|
+| 🧠 [LLM Roadmap](https://github.com/01-for-all/LLM-Roadmap.git) | A curated learning + project path to build, fine-tune, and deploy LLMs in real-world applications. |
+| 🛠️ [Awesome Data Engineering](https://github.com/01-for-all/awesome-low-level-design) | System design patterns, real-world pipelines, and architectural guides for scalable data systems. |
+| 📊 [Awesome Data Science](https://github.com/01-for-all/awesome-behavioral-interviews) | End-to-end prep for ML/Data Science interviews — coding, ML theory, metrics, and case rounds. |
+| 🤖 [RAG-Based Chatbot Template](https://github.com/01-for-all/rag-chatbot-template) | A production-ready Retrieval-Augmented Generation chatbot using Azure OpenAI, FAISS & LangChain. |
+| 📦 [ML Workflow on Databricks](https://github.com/01-for-all/databricks-mlops-template) | An MLflow-enabled pipeline using Azure Data Factory + Databricks for model tracking and deployment. |
+| 🧬 [Generative AI with AutoGen](https://github.com/01-for-all/agentic-genai-autogen) | Multi-agent orchestration using Microsoft's AutoGen framework with enterprise document retrieval. |
+
+---
+### 🌱 Currently Exploring
+
+- 🤖 Agentic AI Systems with AutoGen & LangGraph  
+- 🧩 Personalizing RAG pipelines at scale  
+- 🔐 LLM Security, Safety, and Responsible AI  
+- 🧬 Instruction tuning and fine-tuning of Open Source LLMs
+
+---
+
+### 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/j0-j0)
+- 🐦 [Twitter / X](https://twitter.com/jojo)
+- 📺 [YouTube Channel](https://www.youtube.com)
+- 💻 [Portfolio (Coming Soon)](https://jojo.com)
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,docker,azure,aws,gcp,git,linux,vscode,pytorch,tensorflow,github,databricks,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,sql,pytorch,tensorflow,docker,azure,aws,gcp,linux,git,github,vscode,fastapi,flask,databricks" />
 </p>
 
----
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=JOJO's%20GitHub%20Stats&line_height=28&count_private=true" />
+    </td>
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01-for-all&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
-### 📂 Featured Projects
-
-- 🧠 [LLM Roadmap](https://github.com/01-for-all/LLM-Roadmap.git) – A curated learning path and project ideas for building with LLMs  
-- ⚙️ [Awesome Data Engineering](https://github.com/01-for-all/awesome-low-level-design) – Design patterns, system design, and data pipeline essentials  
-- 📊 [Awesome Data Science](https://github.com/01-for-all/awesome-behavioral-interviews) – Resources and tips for cracking ML + behavioral interviews  
-
----
-
-### 🌐 Connect With Me
-
-- 📺 [YouTube Channel](https://www.youtube.com) – Tutorials & deep dives on AI/ML  
-- 💼 [LinkedIn](https://www.linkedin.com/in/j0-j0) – Follow for tech content & career insights  
-- 🐦 [X (Twitter)](https://twitter.com/jojo) – Sharing thoughts, threads & project updates  
-
----
-
-### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01-for-all&layout=donut&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01-for-all&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/github/followers/01-for-all?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/stars/01-for-all?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=01-for-all&color=brightgreen" />
 </p>
 
 
-    
