@@ -11,8 +11,8 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/01-for-all?label=Follow&style=social" />
   <img src="https://img.shields.io/github/stars/01-for-all?style=social" />
-<!--   <img src="https://komarev.com/ghpvc/?username=01-for-all&color=brightgreen" /> -->
-  <img src="https://img.shields.io/badge/Profile%20views-10k%2B-brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=01-for-all&color=brightgreen" />
+<!--   <img src="https://img.shields.io/badge/Profile%20views-10k%2B-brightgreen" /> -->
 
 </p>
 
