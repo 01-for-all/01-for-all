@@ -8,6 +8,12 @@
    <img src="./assets/contribution_grid_snake.svg" alt="snake">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/01-for-all?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/stars/01-for-all?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=01-for-all&color=brightgreen" />
+</p>
+
 ---
 
 ### 👨‍💼 About Me
@@ -65,12 +71,3 @@
     </td>
   </tr>
 </table>
-
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/01-for-all?label=Follow&style=social" />
-  <img src="https://img.shields.io/github/stars/01-for-all?style=social" />
-  <img src="https://komarev.com/ghpvc/?username=01-for-all&color=brightgreen" />
-</p>
-
-
