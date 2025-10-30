@@ -8,6 +8,15 @@
    <img src="./assets/contribution_grid_snake.svg" alt="snake">
 </p>
 
+### 👨‍💼 About Me
+
+- AI Engineer with 5+ years of analytics experience (4+ in ML/GenAI).
+- Specialized in **LLM-based solutions**, **RAG architecture**, **GenAI pipelines**, and **ML model orchestration**.
+- Hands-on with **Databricks**, **Azure AI**, **Microsoft Fabric**, **MLflow**, **AutoGen**, and more.
+- Built real-time production systems for enterprise clients in telecom, engineering, and education sectors.
+
+
+---
 <p align="center">
   <!-- <img src="https://img.shields.io/github/followers/01-for-all?label=Follow&style=social" />
   <img src="https://img.shields.io/github/stars/01-for-all?style=social" /> -->
@@ -15,12 +24,3 @@
   <!-- <img src="https://img.shields.io/badge/Profile%20views-10k%2B-brightgreen" /> -->
 
 </p>
-
----
-
-### 👨‍💼 About Me
-
-- AI Engineer with 5+ years of analytics experience (4+ in ML/GenAI).
-- Specialized in **LLM-based solutions**, **RAG architecture**, **GenAI pipelines**, and **ML model orchestration**.
-- Hands-on with **Databricks**, **Azure AI**, **Microsoft Fabric**, **MLflow**, **AutoGen**, and more.
-- Built real-time production systems for enterprise clients in telecom, engineering, and education sectors.
